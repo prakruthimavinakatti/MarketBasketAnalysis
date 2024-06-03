@@ -9,9 +9,7 @@ This project involves performing Market Basket Analysis using a dataset of retai
 ## Key Steps in the Analysis
 
 1. **Data Cleaning and Preparation**:
-    - Load the dataset and display the first few rows.
-    - Remove unnecessary columns and handle missing values.
-    - Convert invoice numbers to strings and remove transactions marked as returns (credit transactions).
+    - Load the dataset, clean it by removing unnecessary columns and handling missing values, and preprocess invoice numbers.
 
 2. **Exploratory Data Analysis (EDA)**:
     - Display summary statistics of the dataset.
